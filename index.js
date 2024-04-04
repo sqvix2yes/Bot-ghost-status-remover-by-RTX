@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to PrivateHeberg!","Watching 24/7!"];
+const statusMessages = ["Revolt Shop","Belsicc & 100espoirs","New Logo ?","Dev By Belsicc"];
 
 
 let currentIndex = 0;
