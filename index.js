@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Scripts","YSB Scripts","Scripts","Dev By Belsicc"];
+const statusMessages = ["ProtectScams","Protect","AntiScam","Dev By Belsicc"];
 
 
 let currentIndex = 0;
