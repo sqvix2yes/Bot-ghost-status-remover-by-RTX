@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Revolt Shop","Belsicc & 100espoirs","New Logo ?","Dev By Belsicc"];
+const statusMessages = ["Scripts","YSB Scripts","Scripts","Dev By Belsicc"];
 
 
 let currentIndex = 0;
